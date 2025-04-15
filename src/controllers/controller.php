@@ -4,6 +4,7 @@
 // Função que manipula as requsições do servidor
 function handleRequest(){
     //Seu código aqui
+    
 }
 
 // Função que exibe as tasks na view
